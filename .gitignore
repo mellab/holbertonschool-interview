@@ -244,4 +244,12 @@ dmypy.json
 # profiling data
 .prof
 
+# main files for C
+
+*-main.c
+
+# main files for Python
+
+*-main.py
+
 # End of https://www.toptal.com/developers/gitignore/api/emacs,c,python
